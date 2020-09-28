@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+![Header Image](https://res.cloudinary.com/drrqe1a7m/image/upload/v1601312491/Github/Github_header_wgyo7p.png)
 
 
 <!--
