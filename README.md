@@ -8,11 +8,6 @@
 /Css
 
 
-
-**falrasheed/falrasheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 - 🔭 I’m currently working on improving my JS skills 
 - 👯 I’m looking to collaborate on web dev projects with a focus on front-end.
 - 📫 How to reach me: fahad.alrasheed@gmail.com 
