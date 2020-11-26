@@ -2,13 +2,13 @@
 
 ## /Coding with
 
-/Ruby
+/RoR
 /Javascript
 /Html
 /Css
 
 
-- 🔭 I’m currently working on improving my JS skills 
+- 🔭 Currently working on improving my JS skills // Taking the Full-Stack Open 2020 Course.  
 - 👯 I’m looking to collaborate on web dev projects with a focus on front-end.
 - 📫 How to reach me: fahad.alrasheed@gmail.com 
 - ⚡ Fun fact: I take cold showers, even in winter. 
