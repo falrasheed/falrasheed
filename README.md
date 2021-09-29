@@ -5,11 +5,15 @@
 /RoR
 /Javascript
 /React
+/Node JS
+/Express
+/Mongo DB
 /Html
-/Css
+/Scss
 
 
-- 🔭 Currently working on learning a new stack at Integrify.   
-- 👯 I’m looking to collaborate on web dev projects with a focus on front-end.
+
+- 🔭 Currently working with Shopify SDK.   
+- 👯 Always looking to collaborate on web dev projects with a focus on front-end.
 - 📫 How to reach me: fahad.alrasheed@gmail.com 
 - ⚡ Fun fact: I take cold showers, even in winter. 
