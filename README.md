@@ -5,11 +5,7 @@
 /RoR
 /Javascript
 /React
-/Node JS
-/Express
-/Mongo DB
-/Html
-/Scss
+/Liquid
 
 
 
