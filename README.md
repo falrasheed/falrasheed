@@ -2,14 +2,14 @@
 
 ## /Coding with
 
-/RoR
+
 /Javascript
 /React
 /Liquid
 
 
 
-- 🔭 Currently working with Shopify SDK.   
+- 🔭 Currently building, integrating and customizing Shopify storefronts   
 - 👯 Always looking to collaborate on web dev projects with a focus on front-end.
 - 📫 How to reach me: fahad.alrasheed@gmail.com 
 - ⚡ Fun fact: I take cold showers, even in winter. 
